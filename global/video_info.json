@@ -1,0 +1,590 @@
+[
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0001.MOV",
+        "video_type": "钩子",
+        "duration_ms": 40040,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0002.MOV",
+        "video_type": "钩子",
+        "duration_ms": 31031,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0003.MOV",
+        "video_type": "钩子",
+        "duration_ms": 6506,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0004.MOV",
+        "video_type": "钩子",
+        "duration_ms": 74574,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0005.MOV",
+        "video_type": "钩子",
+        "duration_ms": 59560,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0006.MOV",
+        "video_type": "钩子",
+        "duration_ms": 15015,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0007.MOV",
+        "video_type": "钩子",
+        "duration_ms": 65566,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0008.MOV",
+        "video_type": "钩子",
+        "duration_ms": 74074,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0009.MOV",
+        "video_type": "钩子",
+        "duration_ms": 91091,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0010.MOV",
+        "video_type": "钩子",
+        "duration_ms": 73574,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0011.MOV",
+        "video_type": "钩子",
+        "duration_ms": 97598,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0012.MOV",
+        "video_type": "钩子",
+        "duration_ms": 58558,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0013.MOV",
+        "video_type": "钩子",
+        "duration_ms": 58558,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0014.MOV",
+        "video_type": "钩子",
+        "duration_ms": 50050,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0015.MOV",
+        "video_type": "钩子",
+        "duration_ms": 45546,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0016.MOV",
+        "video_type": "钩子",
+        "duration_ms": 51051,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "扫码溯源技术",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0017.MOV",
+        "video_type": "技术",
+        "duration_ms": 4504,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "扫码溯源技术",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0018.MOV",
+        "video_type": "技术",
+        "duration_ms": 9510,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "坛装酒倒酒",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0019.MOV",
+        "video_type": "技术",
+        "duration_ms": 17017,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "坛装酒倒酒+品味（正面）",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0020.MOV",
+        "video_type": "产品",
+        "duration_ms": 6506,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "坛装酒倒酒+品味（正面）",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0021.MOV",
+        "video_type": "产品",
+        "duration_ms": 7508,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "坛装酒倒酒+品味（侧面）",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0022.MOV",
+        "video_type": "产品",
+        "duration_ms": 8508,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "坛装酒倒酒+品味（侧面）",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0023.MOV",
+        "video_type": "产品",
+        "duration_ms": 12012,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "坛装酒近景",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0024.MOV",
+        "video_type": "产品",
+        "duration_ms": 11512,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "坛装酒特写",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0025.MOV",
+        "video_type": "产品",
+        "duration_ms": 7007,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "坛装酒近景",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0026.MOV",
+        "video_type": "产品",
+        "duration_ms": 7508,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "坛装酒近景",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0027.MOV",
+        "video_type": "产品",
+        "duration_ms": 9009,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "坛装酒近景",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0028.MOV",
+        "video_type": "产品",
+        "duration_ms": 12512,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内摆设-坛装酒+瓶装酒",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0029.MOV",
+        "video_type": "产品",
+        "duration_ms": 12012,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内摆设-坛装酒+瓶装酒",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0030.MOV",
+        "video_type": "产品",
+        "duration_ms": 10510,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内摆设-瓶装酒",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0031.MOV",
+        "video_type": "加盟",
+        "duration_ms": 10510,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内摆设-瓶装酒",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0032.MOV",
+        "video_type": "加盟",
+        "duration_ms": 8508,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内摆设-瓶装酒",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0033.MOV",
+        "video_type": "加盟",
+        "duration_ms": 6506,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内摆设-瓶装酒",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0034.MOV",
+        "video_type": "加盟",
+        "duration_ms": 5005,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内摆设-瓶装酒",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0035.MOV",
+        "video_type": "加盟",
+        "duration_ms": 9009,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内摆设-瓶装酒",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0036.MOV",
+        "video_type": "加盟",
+        "duration_ms": 6006,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "坛装酒特写",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0037.MOV",
+        "video_type": "加盟",
+        "duration_ms": 6006,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内摆设-瓶装酒",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0038.MOV",
+        "video_type": "加盟",
+        "duration_ms": 10510,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "产品外观",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0039.MOV",
+        "video_type": "加盟",
+        "duration_ms": 5005,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "产品外观",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0040.MOV",
+        "video_type": "加盟",
+        "duration_ms": 6006,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "产品外观",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0041.MOV",
+        "video_type": "加盟",
+        "duration_ms": 5506,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "质量认证证书",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0042.MOV",
+        "video_type": "认证",
+        "duration_ms": 11512,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "质量认证证书",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0043.MOV",
+        "video_type": "认证",
+        "duration_ms": 9510,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "质量认证证书",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0044.MOV",
+        "video_type": "认证",
+        "duration_ms": 7508,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "质量认证证书",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0045.MOV",
+        "video_type": "认证",
+        "duration_ms": 8508,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "质量认证证书",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0046.MOV",
+        "video_type": "认证",
+        "duration_ms": 7508,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "质量认证证书",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0047.MOV",
+        "video_type": "认证",
+        "duration_ms": 6006,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内柜台",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0048.MOV",
+        "video_type": "加盟",
+        "duration_ms": 12512,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内柜台",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0049.MOV",
+        "video_type": "加盟",
+        "duration_ms": 12012,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内摆设-瓶装酒",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0050.MOV",
+        "video_type": "加盟",
+        "duration_ms": 8008,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内摆设-瓶装酒",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0051.MOV",
+        "video_type": "加盟",
+        "duration_ms": 6506,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内摆设-瓶装酒",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0052.MOV",
+        "video_type": "加盟",
+        "duration_ms": 7007,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内摆设-瓶装酒",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0053.MOV",
+        "video_type": "加盟",
+        "duration_ms": 7007,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内品牌名称特写",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0054.MOV",
+        "video_type": "加盟",
+        "duration_ms": 7007,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "店内品牌名称特写",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0055.MOV",
+        "video_type": "加盟",
+        "duration_ms": 11512,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "门店门牌特写",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0056.MOV",
+        "video_type": "加盟",
+        "duration_ms": 6506,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "门店门牌特写",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0057.MOV",
+        "video_type": "加盟",
+        "duration_ms": 6006,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "门店门牌特写",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0058.MOV",
+        "video_type": "加盟",
+        "duration_ms": 6006,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "门店1外景远景",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0059.MOV",
+        "video_type": "加盟",
+        "duration_ms": 9510,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "门店1外景远景",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0060.MOV",
+        "video_type": "加盟",
+        "duration_ms": 5506,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "门店1外景远景",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0061.MOV",
+        "video_type": "加盟",
+        "duration_ms": 8508,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "门店1外景近景",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0062.MOV",
+        "video_type": "加盟",
+        "duration_ms": 6006,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "门店2外景",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0063.MOV",
+        "video_type": "加盟",
+        "duration_ms": 7007,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "门店2外景",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0064.MOV",
+        "video_type": "加盟",
+        "duration_ms": 8008,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "门店2外景",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0065.MOV",
+        "video_type": "加盟",
+        "duration_ms": 6006,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "门店2外景",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0066.MOV",
+        "video_type": "加盟",
+        "duration_ms": 8008,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "门店2外景",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0067.MOV",
+        "video_type": "加盟",
+        "duration_ms": 12512,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "门店2外景",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0068.MOV",
+        "video_type": "加盟",
+        "duration_ms": 4504,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0001.MOV",
+        "video_type": "种草",
+        "duration_ms": 40040,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0002.MOV",
+        "video_type": "种草",
+        "duration_ms": 31031,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0003.MOV",
+        "video_type": "种草",
+        "duration_ms": 6506,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0004.MOV",
+        "video_type": "种草",
+        "duration_ms": 74574,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0005.MOV",
+        "video_type": "种草",
+        "duration_ms": 59560,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0006.MOV",
+        "video_type": "种草",
+        "duration_ms": 15015,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0007.MOV",
+        "video_type": "种草",
+        "duration_ms": 65566,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0008.MOV",
+        "video_type": "种草",
+        "duration_ms": 74074,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0009.MOV",
+        "video_type": "种草",
+        "duration_ms": 91091,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0010.MOV",
+        "video_type": "种草",
+        "duration_ms": 73574,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0011.MOV",
+        "video_type": "种草",
+        "duration_ms": 97598,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0012.MOV",
+        "video_type": "种草",
+        "duration_ms": 58558,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0013.MOV",
+        "video_type": "种草",
+        "duration_ms": 58558,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0014.MOV",
+        "video_type": "种草",
+        "duration_ms": 50050,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0015.MOV",
+        "video_type": "种草",
+        "duration_ms": 45546,
+        "resolution": "1080x1920"
+    },
+    {
+        "description": "官方宣传片段",
+        "video_path": "/Volumes/PSSD/视频剪辑业务/白酒无声/C0016.MOV",
+        "video_type": "种草",
+        "duration_ms": 51051,
+        "resolution": "1080x1920"
+    }
+]
